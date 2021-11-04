@@ -12,7 +12,7 @@
         "README.md",
         "custom.ts",
         "_locales/ja/README.md",
-        "RobotCoders_IR_Receiver_strings.json"
+        "_locales/ja/RobotCoders_IR_Receiver_strings.json"
     ],
     "testFiles": [
         "test.ts"

@@ -1,0 +1,10 @@
+{
+    "IrButton.Any|block": "どれか",
+    "IrButton.B0_0|block": "ボタン0_0",
+    "IrButtonAction.Pressed|block": "押された時",
+    "IrButtonAction.Released|block": "離された時",
+    "IrProtocol.Keyestudio|block": "Keyestudio",
+    "IrProtocol.NEC|block": "NEC",
+    "IrProtocol.NEC_OTHER|block": "NEC_その他",
+    "RobotCoders.connectIrReceiver|block": "赤外線受信接続ピン %pin プロトコル %protocol"
+}

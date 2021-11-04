@@ -44,6 +44,7 @@ const enum IrButton {
     //% block="Any"
     Any = -1,
 }
+
 const enum IrButtonAction {
     //% block="pressed"
     Pressed = 0,
@@ -102,9 +103,6 @@ namespace RobotCoders {
             this.onEvent = onEvent;
         }
     }
-
-
-
 
     function appendBitToDatagram(bit: number): number {
         irState.bitsReceived += 1;
